@@ -1,3 +1,3 @@
 ### 2006 YouTube
 
-We've recreated the old 2006 YouTube to still actually work by using the YouTube v3 API
+This project is taking old versions of the YouTube design (taken from web.archive.org) and making them functional again with the help of the YouTube API.
